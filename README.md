@@ -3,7 +3,7 @@
 Edit Distance (recursive, table, two rows) and string search (Naive, KMP) for the
 "City Search & Spell-Check" scenario, plus my own experiment.
 
-Student: Islam, group SE-2509, Astana IT University
+Student: Shadyzhev Islam, group SE-2509, Astana IT University
 
 ## Project layout
 
